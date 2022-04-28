@@ -82,4 +82,4 @@ const assignFizzBuzzTrickf = function(explorer){
 };
 
 const explorersInNodeAndFizzBuzzTrickf = explorersInNode.map((explorer) => assignFizzBuzzTrickf(explorer));
-console.log(explorersInNodeAndFizzBuzzTrickf)
+console.log(explorersInNodeAndFizzBuzzTrickf);
