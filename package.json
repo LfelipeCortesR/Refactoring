@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LfelipeCortesR/Refactoring/issues"
   },
-  "homepage": "https://github.com/LfelipeCortesR/Refactoring#readme"
+  "homepage": "https://github.com/LfelipeCortesR/Refactoring#readme",
+  "devDependencies": {
+    "jest": "^26.0.0"
+  }
 }
